@@ -6,9 +6,17 @@
 # Текст после номера — описание задачи.
 # Строки, начинающиеся с #, игнорируются.
 
+Education
 1. Digital Circuit Synthesis
 1.1 RTL
 
-2. ROS
+2. ROS2
 
 3. Microcontroller
+
+4. English
+
+Projects
+1. Lidar
+
+2. Robot
